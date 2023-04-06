@@ -1,0 +1,1 @@
+This example is simply to show that in Kotlin, unlike java, you can compare strings with "==" operator and it behaves exactly as you would expect it to
